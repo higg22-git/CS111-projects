@@ -1,0 +1,18 @@
+{
+    "tests": [
+        {
+            "score": 50.0,
+            "max_score": 50.0,
+            "name": "test_grade_calculator.py::test_grade_1[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 50.0,
+            "max_score": 50.0,
+            "name": "test_grade_calculator.py::test_grade_2[stdout]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
